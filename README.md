@@ -6,4 +6,4 @@ created by kushal chausaiya.
 
 
 # help 
-Init command -- use to create a new git repo
+Init command -- use to create a new git repo.
